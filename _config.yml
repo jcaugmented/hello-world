@@ -9,7 +9,7 @@
 title: JLeeC Standard
 email: jleecstandard@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  In a world where standards are implied and required in the business, it's amazing how often a standard
+  In a world where standards are implied and required to conduct business, it's amazing how often a standard
   approach is left out of the actual business execution.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jleec.net" # the base hostname & protocol for your site
